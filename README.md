@@ -18,7 +18,7 @@
 <div class="row p-0 justify-content-around">
   <div class="col-12 col-md-5 col-lg-4 mx-1 mx-md-4 mx-lg-0 my-3 my-lg-3">
     <div class="card" style="width: 18rem;">
-      <img class="card-img-top" src="images/rh-machine-up.png" alt="Card image cap">
+      <img class="card-img-top" src="images/demo.png" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">Create Basic SQL Admin Panel</h5>
         <p class="card-text">15 steps to build your SQL Table admin panel.</p>
