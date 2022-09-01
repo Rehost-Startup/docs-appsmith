@@ -86,7 +86,7 @@
     <div class="carousel-item">
       <img class="d-block w-100" src="images/create-table-editor-3.png" alt="Slide 3">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img class="d-block w-100" src="images/create-table-editor-4.png" alt="Slide 4">
     </div>
     <div class="carousel-item">
@@ -105,7 +105,7 @@
 
 ## Step 4: Create Backend APIs
 
-10 Slides.
+9 Slides.
 
 <div id="carouselExampleIndicators4" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -130,7 +130,7 @@
     <div class="carousel-item">
       <img class="d-block w-100" src="images/create-table-editor-8.png" alt="Slide 3">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img class="d-block w-100" src="images/create-table-editor-9.png" alt="Slide 4">
     </div>
     <div class="carousel-item">
@@ -147,9 +147,6 @@
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="images/create-table-editor-14.png" alt="Slide 9">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="images/deploy-1.png" alt="Slide 10">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators4" role="button" data-slide="prev">
