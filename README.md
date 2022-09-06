@@ -22,7 +22,7 @@
       <div class="card-body">
         <h5 class="card-title">Create Basic SQL Admin Panel</h5>
         <p class="card-text">15 steps to build your SQL Table admin panel.</p>
-        <a href="/#/guides/sql-admin-panel" class="btn btn-primary">Read</a>
+        <a href="/#/guides/sql-admin-panel" class="btn btn-dark">Read</a>
       </div>
     </div>
   </div>

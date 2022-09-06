@@ -3,7 +3,7 @@
 <i>Last Updated: 31st August, 2022.</i>
 
 ## Prerequisites
-* You have [connected a VM](https://docs.rehost.in/#/guides/connect-vm)
+* You have [connected a VM](https://docs.rehost.in/#/guides/connect-vm?id=connect-a-vm-to-rehost-console)
 
 ## Step 1: Create Project
 
