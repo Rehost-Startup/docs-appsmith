@@ -13,6 +13,23 @@
 
 > Appsmith is full-stack application development tool designed for internal tool usage like email-campaign dashboards, customer-analysis for your specific database, product inventory management, data visualization pages, discord bots, and so on.
 
+## Install using Rehost
+
+* Required Variables:
+
+| Variable Name | Variable Description | Example |
+| ---- | ---- | ---- |
+| PORT_APP | Local Port Number where the app should run | 80 |
+
+* Required URLs
+
+**Note**: The port numbers mentioned here prefixed by `$` sign mean that they should match with the variable value defined. For example, if PORT_APP is set as 3000, you need to define the URL PORT as 3000.
+
+| URL PORT | URL Description | Example |
+| ---- | ---- | ---- |
+| $PORT_APP | Local Port Number where the app should run | 80 |
+
+
 ## Quickstart Guides
 
 <div class="row p-0 justify-content-around">
